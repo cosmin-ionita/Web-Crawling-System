@@ -7,4 +7,4 @@ link that it received from the user to a connected client. The client connects t
 page) and then, if the recursive mode is enabled, it scans the entire HTML page and collects the links that are relative to the root. Those links are then transmitted
 back to server, along with the downloaded HTML page. The server then put those links in a list and distributes them equally to the connected clients.
 
-
+![](https://github.com/ionitacosmin95/Web-Crawling-System/blob/master/Images/web-crawling-system.png)
